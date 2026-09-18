@@ -4,6 +4,7 @@
 	},
 	"language": "Solidity",
 	"output": {
+		
 		"abi": [
 			{
 				"inputs": [],
